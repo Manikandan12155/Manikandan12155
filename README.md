@@ -1,678 +1,317 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manikandan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%26%20Team%20Lead%20%7C%20Building%20Enterprise%20Solutions%20That%20Scale&descAlignY=60&descSize=15&descColor=8b949e" width="100%"/>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Team+Lead+%F0%9F%9A%80;React+%7C+Angular+%7C+.NET+Core+%7C+FastAPI+%E2%9A%A1;ERP+%26+Enterprise+App+Specialist+%F0%9F%8F%97%EF%B8%8F;AI+Integration+%26+Workflow+Automation+%F0%9F%A4%96;3%2B+Years+%7C+10%2B+Projects+%7C+6%2B+Global+Clients+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
+</div>
 
-* { box-sizing: border-box; margin: 0; padding: 0; }
+<br/>
 
-body { font-family: 'Space Grotesk', sans-serif; }
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manikandan12155&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20Tamil%20Nadu-bf91f3?style=flat-square&logo=googlemaps&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-38bdae?style=flat-square&logo=checkmarx&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-f78166?style=flat-square&logoColor=white"/>
+</div>
 
-.portfolio {
-  background: #0a0a0f;
-  color: #e2e8f0;
-  min-height: 100vh;
-  font-family: 'Space Grotesk', sans-serif;
-  padding: 0;
-  border-radius: 16px;
-  overflow: hidden;
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```java
+public class Manikandan {
+
+    // ── Identity ───────────────────────────────────
+    String name         = "Manikandan";
+    String location     = "Coimbatore, Tamil Nadu, India";
+    String role         = "Full Stack Developer & Team Lead";
+    String company      = "Aagnia Technologies";
+    String email        = "manianuram2312@gmail.com";
+    String portfolio    = "manikandan-dev.netlify.app";
+    String github       = "github.com/Manikandan12155";
+
+    // ── Core Stack ─────────────────────────────────
+    String[] frontend   = { "React", "Angular", "Next.js", "React Native" };
+    String[] backend    = { ".NET Core", "FastAPI", "ASP.NET MVC", "C#" };
+    String[] database   = { "SQL Server", "PostgreSQL", "Entity Framework" };
+
+    // ── Currently Learning ─────────────────────────
+    String[] learning   = {
+        "AI Integration & LLM Workflows",
+        "System Design & Microservices",
+        "Cloud Platforms (Azure / AWS)"
+    };
+
+    // ── Impact Numbers ─────────────────────────────
+    int  yearsExperience  = 3;
+    int  projectsDelivered = 10;
+    int  vendorsManaged   = 3000;
+    int  globalClients    = 6;
+
+    String motto() {
+        return "Build systems that scale, write code that lasts.";
+    }
 }
+```
 
-.hero {
-  background: linear-gradient(135deg, #0d0d1a 0%, #0f172a 40%, #0d1f3c 100%);
-  padding: 60px 48px 50px;
-  position: relative;
-  border-bottom: 1px solid rgba(112, 165, 253, 0.15);
-  overflow: hidden;
-}
+<br clear="right"/>
 
-.hero::before {
-  content: '';
-  position: absolute;
-  top: -80px; right: -80px;
-  width: 320px; height: 320px;
-  background: radial-gradient(circle, rgba(112,165,253,0.12) 0%, transparent 70%);
-  border-radius: 50%;
-}
+---
 
-.hero::after {
-  content: '';
-  position: absolute;
-  bottom: -60px; left: 60px;
-  width: 200px; height: 200px;
-  background: radial-gradient(circle, rgba(191,145,243,0.1) 0%, transparent 70%);
-  border-radius: 50%;
-}
+## 📊 Impact at a Glance
 
-.hero-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  margin-bottom: 32px;
-  position: relative;
-  z-index: 1;
-}
+<div align="center">
 
-.hero-badge {
-  background: rgba(112,165,253,0.12);
-  border: 1px solid rgba(112,165,253,0.25);
-  color: #70a5fd;
-  font-size: 12px;
-  font-weight: 500;
-  padding: 6px 14px;
-  border-radius: 20px;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  font-family: 'JetBrains Mono', monospace;
-}
-
-.status-dot {
-  display: inline-block;
-  width: 7px; height: 7px;
-  background: #38bdae;
-  border-radius: 50%;
-  margin-right: 6px;
-  animation: pulse 2s infinite;
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.4; }
-}
-
-.hero-name {
-  font-size: 56px;
-  font-weight: 700;
-  color: #fff;
-  letter-spacing: -1.5px;
-  line-height: 1;
-  margin-bottom: 8px;
-  position: relative; z-index: 1;
-}
-
-.hero-name span {
-  background: linear-gradient(90deg, #70a5fd, #bf91f3);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.hero-role {
-  font-size: 18px;
-  color: #8b949e;
-  font-weight: 400;
-  margin-bottom: 28px;
-  position: relative; z-index: 1;
-}
-
-.hero-role strong { color: #c9d1d9; font-weight: 500; }
-
-.hero-links {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-  position: relative; z-index: 1;
-}
-
-.hero-link {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  background: rgba(255,255,255,0.05);
-  border: 1px solid rgba(255,255,255,0.1);
-  color: #c9d1d9;
-  text-decoration: none;
-  font-size: 13px;
-  padding: 8px 16px;
-  border-radius: 8px;
-  font-weight: 400;
-  transition: all 0.2s;
-  cursor: pointer;
-  font-family: 'JetBrains Mono', monospace;
-}
-
-.hero-link:hover {
-  background: rgba(112,165,253,0.1);
-  border-color: rgba(112,165,253,0.3);
-  color: #70a5fd;
-}
-
-.hero-link i { font-size: 15px; }
-
-.section {
-  padding: 36px 48px;
-  border-bottom: 1px solid rgba(255,255,255,0.06);
-}
-
-.section-label {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 11px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: #70a5fd;
-  margin-bottom: 24px;
-  font-family: 'JetBrains Mono', monospace;
-}
-
-.section-label::after {
-  content: '';
-  flex: 1;
-  height: 1px;
-  background: rgba(112,165,253,0.2);
-}
-
-.code-block {
-  background: #0d1117;
-  border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 12px;
-  padding: 24px 28px;
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 13px;
-  line-height: 1.8;
-  overflow: hidden;
-  position: relative;
-}
-
-.code-block::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 2px;
-  background: linear-gradient(90deg, #70a5fd, #bf91f3, #38bdae);
-}
-
-.code-top {
-  display: flex;
-  gap: 6px;
-  margin-bottom: 18px;
-}
-
-.dot { width: 10px; height: 10px; border-radius: 50%; }
-.dot-r { background: #ff5f57; }
-.dot-y { background: #febc2e; }
-.dot-g { background: #28c840; }
-
-.kw { color: #bf91f3; }
-.cn { color: #70a5fd; }
-.str { color: #a5d6ff; }
-.cm { color: #484f58; }
-.fn { color: #38bdae; }
-.op { color: #8b949e; }
-.num { color: #f78166; }
-
-.tech-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-  gap: 8px;
-}
-
-.tech-badge {
-  background: rgba(255,255,255,0.04);
-  border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 8px;
-  padding: 10px 14px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 13px;
-  color: #c9d1d9;
-  font-weight: 400;
-  transition: all 0.2s;
-  cursor: default;
-}
-
-.tech-badge:hover {
-  background: rgba(112,165,253,0.08);
-  border-color: rgba(112,165,253,0.2);
-  color: #e2e8f0;
-}
-
-.tech-dot {
-  width: 8px; height: 8px;
-  border-radius: 50%;
-  flex-shrink: 0;
-}
-
-.cat-label {
-  font-size: 11px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: #484f58;
-  font-family: 'JetBrains Mono', monospace;
-  margin: 20px 0 10px;
-}
-
-.exp-cards {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.exp-card {
-  background: rgba(255,255,255,0.03);
-  border: 1px solid rgba(255,255,255,0.07);
-  border-radius: 12px;
-  padding: 20px 24px;
-  position: relative;
-  overflow: hidden;
-  transition: all 0.2s;
-  cursor: default;
-}
-
-.exp-card::before {
-  content: '';
-  position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 3px;
-  background: linear-gradient(180deg, #70a5fd, #bf91f3);
-}
-
-.exp-card:hover {
-  background: rgba(112,165,253,0.04);
-  border-color: rgba(112,165,253,0.15);
-}
-
-.exp-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  margin-bottom: 6px;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.exp-company {
-  font-weight: 600;
-  font-size: 15px;
-  color: #e2e8f0;
-}
-
-.exp-date {
-  font-size: 12px;
-  color: #484f58;
-  font-family: 'JetBrains Mono', monospace;
-  background: rgba(255,255,255,0.04);
-  padding: 3px 10px;
-  border-radius: 4px;
-}
-
-.exp-role {
-  font-size: 13px;
-  color: #70a5fd;
-  font-weight: 500;
-  margin-bottom: 12px;
-}
-
-.exp-points {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
-.exp-points li {
-  font-size: 13px;
-  color: #8b949e;
-  padding-left: 16px;
-  position: relative;
-  line-height: 1.5;
-}
-
-.exp-points li::before {
-  content: '→';
-  position: absolute;
-  left: 0;
-  color: #38bdae;
-  font-size: 11px;
-}
-
-.proj-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 12px;
-}
-
-.proj-card {
-  background: rgba(255,255,255,0.03);
-  border: 1px solid rgba(255,255,255,0.07);
-  border-radius: 12px;
-  padding: 20px;
-  transition: all 0.2s;
-  cursor: default;
-  position: relative;
-  overflow: hidden;
-}
-
-.proj-card::after {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 1px;
-  background: linear-gradient(90deg, transparent, rgba(112,165,253,0.4), transparent);
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-.proj-card:hover {
-  background: rgba(112,165,253,0.05);
-  border-color: rgba(112,165,253,0.18);
-  transform: translateY(-1px);
-}
-
-.proj-card:hover::after { opacity: 1; }
-
-.proj-client {
-  font-size: 10px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: #38bdae;
-  font-family: 'JetBrains Mono', monospace;
-  margin-bottom: 6px;
-}
-
-.proj-name {
-  font-size: 15px;
-  font-weight: 600;
-  color: #e2e8f0;
-  margin-bottom: 8px;
-}
-
-.proj-desc {
-  font-size: 12px;
-  color: #6e7681;
-  line-height: 1.5;
-  margin-bottom: 12px;
-}
-
-.proj-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-}
-
-.proj-tag {
-  background: rgba(112,165,253,0.08);
-  border: 1px solid rgba(112,165,253,0.15);
-  color: #70a5fd;
-  font-size: 10px;
-  padding: 2px 8px;
-  border-radius: 4px;
-  font-family: 'JetBrains Mono', monospace;
-}
-
-.stats-row {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
-}
-
-.stat-card {
-  background: rgba(255,255,255,0.03);
-  border: 1px solid rgba(255,255,255,0.07);
-  border-radius: 10px;
-  padding: 16px;
-  text-align: center;
-}
-
-.stat-num {
-  font-size: 28px;
-  font-weight: 700;
-  color: #70a5fd;
-  font-family: 'JetBrains Mono', monospace;
-  display: block;
-  margin-bottom: 4px;
-}
-
-.stat-label {
-  font-size: 11px;
-  color: #484f58;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-}
-
-.footer {
-  padding: 28px 48px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 12px;
-  background: rgba(0,0,0,0.2);
-}
-
-.footer-text {
-  font-size: 12px;
-  color: #484f58;
-  font-family: 'JetBrains Mono', monospace;
-}
-
-.footer-actions {
-  display: flex;
-  gap: 8px;
-}
-
-.btn {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  background: rgba(112,165,253,0.1);
-  border: 1px solid rgba(112,165,253,0.25);
-  color: #70a5fd;
-  font-size: 12px;
-  padding: 8px 16px;
-  border-radius: 7px;
-  cursor: pointer;
-  font-family: 'Space Grotesk', sans-serif;
-  font-weight: 500;
-  transition: all 0.2s;
-}
-
-.btn:hover {
-  background: rgba(112,165,253,0.2);
-  border-color: rgba(112,165,253,0.4);
-}
-
-.btn i { font-size: 14px; }
-</style>
-
-<div class="portfolio">
-
-  <div class="hero">
-    <div class="hero-top">
-      <div class="hero-badge">
-        <span class="status-dot"></span> Open to opportunities
-      </div>
-      <div style="font-size:12px;color:#484f58;font-family:'JetBrains Mono',monospace;">
-        Coimbatore, Tamil Nadu 📍
-      </div>
-    </div>
-
-    <div class="hero-name">Manikandan <span>.</span></div>
-    <div class="hero-role">
-      <strong>Full Stack Developer & Team Lead</strong> — Building enterprise solutions that scale
-    </div>
-
-    <div class="hero-links">
-      <div class="hero-link"><i class="ti ti-brand-github" aria-hidden="true"></i> Manikandan12155</div>
-      <div class="hero-link"><i class="ti ti-world" aria-hidden="true"></i> manikandan-dev.netlify.app</div>
-      <div class="hero-link"><i class="ti ti-mail" aria-hidden="true"></i> manianuram2312@gmail.com</div>
-    </div>
-  </div>
-
-  <div class="section">
-    <div class="section-label">// about me</div>
-    <div class="code-block">
-      <div class="code-top">
-        <div class="dot dot-r"></div>
-        <div class="dot dot-y"></div>
-        <div class="dot dot-g"></div>
-      </div>
-      <div>
-        <span class="kw">class</span> <span class="cn">Manikandan</span> <span class="op">{</span><br/>
-        &nbsp;&nbsp;<span class="op">String</span> <span class="cn">name</span>      <span class="op">=</span> <span class="str">"Manikandan"</span><span class="op">;</span><br/>
-        &nbsp;&nbsp;<span class="op">String</span> <span class="cn">location</span>  <span class="op">=</span> <span class="str">"Coimbatore, Tamil Nadu, India"</span><span class="op">;</span><br/>
-        &nbsp;&nbsp;<span class="op">String</span> <span class="cn">role</span>      <span class="op">=</span> <span class="str">"Full Stack Developer &amp; Team Lead"</span><span class="op">;</span><br/>
-        &nbsp;&nbsp;<span class="op">int</span>    <span class="cn">experience</span> <span class="op">=</span> <span class="num">3</span><span class="op">;</span> <span class="cm">// years</span><br/>
-        <br/>
-        &nbsp;&nbsp;<span class="op">String[]</span> <span class="cn">stack</span> <span class="op">= {</span> <span class="str">"React"</span><span class="op">,</span> <span class="str">"Angular"</span><span class="op">,</span> <span class="str">"Next.js"</span><span class="op">,</span> <span class="str">".NET Core"</span><span class="op">,</span> <span class="str">"FastAPI"</span> <span class="op">};</span><br/>
-        <br/>
-        &nbsp;&nbsp;<span class="fn">String</span> <span class="cn">motto</span><span class="op">() {</span><br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span class="kw">return</span> <span class="str">"Build systems that scale, write code that lasts."</span><span class="op">;</span><br/>
-        &nbsp;&nbsp;<span class="op">}</span><br/>
-        <span class="op">}</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="section">
-    <div class="section-label">// impact at a glance</div>
-    <div class="stats-row">
-      <div class="stat-card">
-        <span class="stat-num">3+</span>
-        <span class="stat-label">Years Exp</span>
-      </div>
-      <div class="stat-card">
-        <span class="stat-num">10+</span>
-        <span class="stat-label">Enterprise Projects</span>
-      </div>
-      <div class="stat-card">
-        <span class="stat-num">3K+</span>
-        <span class="stat-label">Vendors Managed</span>
-      </div>
-      <div class="stat-card">
-        <span class="stat-num">6+</span>
-        <span class="stat-label">Global Clients</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="section">
-    <div class="section-label">// tech stack</div>
-
-    <div class="cat-label">Frontend</div>
-    <div class="tech-grid">
-      <div class="tech-badge"><div class="tech-dot" style="background:#61dafb"></div>React.js</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#dd0031"></div>Angular</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#000"></div>Next.js</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#61dafb"></div>React Native</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#f7df1e"></div>JavaScript</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#3178c6"></div>TypeScript</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#06b6d4"></div>Tailwind CSS</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#7952b3"></div>Bootstrap</div>
-    </div>
-
-    <div class="cat-label">Backend & Database</div>
-    <div class="tech-grid">
-      <div class="tech-badge"><div class="tech-dot" style="background:#512bd4"></div>.NET Core</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#239120"></div>C#</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#009688"></div>FastAPI</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#cc2927"></div>SQL Server</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#4169e1"></div>PostgreSQL</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#ff6c37"></div>REST API</div>
-    </div>
-
-    <div class="cat-label">Tools</div>
-    <div class="tech-grid">
-      <div class="tech-badge"><div class="tech-dot" style="background:#f05032"></div>Git</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#fc6d26"></div>GitLab</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#5c2d91"></div>Visual Studio</div>
-      <div class="tech-badge"><div class="tech-dot" style="background:#007acc"></div>VS Code</div>
-    </div>
-  </div>
-
-  <div class="section">
-    <div class="section-label">// experience</div>
-    <div class="exp-cards">
-      <div class="exp-card">
-        <div class="exp-header">
-          <div>
-            <div class="exp-company">Aagnia Technologies</div>
-            <div class="exp-role">Full Stack Developer Team Lead</div>
-          </div>
-          <div class="exp-date">Jun 2025 → Present</div>
-        </div>
-        <ul class="exp-points">
-          <li>Leading enterprise web & mobile app development across cross-functional teams</li>
-          <li>Driving AI integration, chatbot development & intelligent workflow automation</li>
-          <li>Mentoring developers, conducting code reviews & defining architecture standards</li>
-        </ul>
-      </div>
-      <div class="exp-card">
-        <div class="exp-header">
-          <div>
-            <div class="exp-company">Agaram InfoTech</div>
-            <div class="exp-role">Senior Software Engineer</div>
-          </div>
-          <div class="exp-date">Aug 2022 → Jul 2025</div>
-        </div>
-        <ul class="exp-points">
-          <li>Built ERP & enterprise systems for Pfizer, Fujitec, Hyundai Transys & Goodyear</li>
-          <li>Developed React/Angular frontends + ASP.NET Core REST APIs at scale</li>
-          <li>Designed SQL Server databases with complex reporting & integration workflows</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="section">
-    <div class="section-label">// featured projects</div>
-    <div class="proj-grid">
-      <div class="proj-card">
-        <div class="proj-client">Pfizer</div>
-        <div class="proj-name">Asset Management System</div>
-        <div class="proj-desc">RFID, QR & Barcode-based asset lifecycle tracking. Reduced manual monitoring effort significantly through automation.</div>
-        <div class="proj-tags">
-          <span class="proj-tag">React</span>
-          <span class="proj-tag">.NET Core</span>
-          <span class="proj-tag">SQL Server</span>
-          <span class="proj-tag">RFID</span>
-        </div>
-      </div>
-      <div class="proj-card">
-        <div class="proj-client">LS Automotive India</div>
-        <div class="proj-name">Vendor & Supplier Plan</div>
-        <div class="proj-desc">Production planning platform managing 3,000+ vendors & suppliers with shipment coordination.</div>
-        <div class="proj-tags">
-          <span class="proj-tag">React</span>
-          <span class="proj-tag">FastAPI</span>
-          <span class="proj-tag">PostgreSQL</span>
-        </div>
-      </div>
-      <div class="proj-card">
-        <div class="proj-client">Fujitec</div>
-        <div class="proj-name">Performance Management</div>
-        <div class="proj-desc">Employee appraisal platform with automated review workflows, notifications & analytics dashboards.</div>
-        <div class="proj-tags">
-          <span class="proj-tag">Angular</span>
-          <span class="proj-tag">ASP.NET Core</span>
-          <span class="proj-tag">SQL Server</span>
-        </div>
-      </div>
-      <div class="proj-card">
-        <div class="proj-client">Hyundai Transys</div>
-        <div class="proj-name">Complaint Management</div>
-        <div class="proj-desc">Cross-platform complaint tracking across desktop & mobile, improving resolution efficiency end-to-end.</div>
-        <div class="proj-tags">
-          <span class="proj-tag">React Native</span>
-          <span class="proj-tag">.NET Core</span>
-          <span class="proj-tag">PostgreSQL</span>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="footer">
-    <span class="footer-text">manikandan © 2025 · full stack developer</span>
-    <div class="footer-actions">
-      <button class="btn" onclick="sendPrompt('Generate the full improved README.md with this enhanced professional design, including all 13 sections with the dark theme and premium styling.')">
-        <i class="ti ti-file-code" aria-hidden="true"></i> Generate Full README ↗
-      </button>
-      <button class="btn" onclick="sendPrompt('Make this portfolio README even more impressive — add LeetCode stats widget, contribution snake animation, and a dynamic visitor map section.')">
-        <i class="ti ti-sparkles" aria-hidden="true"></i> Upgrade More ↗
-      </button>
-    </div>
-  </div>
+| 🧑‍💻 Experience | 🏗️ Projects Delivered | 🌍 Global Clients | 🏭 Vendors Managed |
+|:-:|:-:|:-:|:-:|
+| **3+ Years** | **10+ Enterprise** | **6+ Companies** | **3,000+ Records** |
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+**⚡ Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-4285F4?style=flat-square&logo=primereact&logoColor=white)
+
+**🔧 Backend**
+
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP_Services-5C5C5C?style=flat-square&logoColor=white)
+
+**🗄️ Database**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**🧰 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Methodology-38BDAE?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Manikandan12155">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manikandan12155&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/Manikandan12155">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan12155&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  </a>
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Manikandan12155&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📉 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikandan12155&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manikandan12155&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+  <summary>
+    <b>🏢 Aagnia Technologies</b> &nbsp;—&nbsp; Full Stack Developer Team Lead &nbsp;|&nbsp;
+    <code>Jun 2025 → Present</code> &nbsp;|&nbsp; Coimbatore, India
+  </summary>
+
+<br/>
+
+> **Stack:**
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+> ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+- 🚀 **Leading** end-to-end development of enterprise web and mobile applications for global clients across multiple industries
+- 🤖 **Driving AI integration** — chatbot development, LLM workflows, and intelligent business process automation
+- 👥 **Mentoring** junior developers, conducting structured code reviews, and defining architecture standards across teams
+- ⚙️ **Managing** deployment pipelines, application performance optimization, and continuous system enhancement cycles
+- 🤝 **Collaborating directly with clients** to gather requirements and translate business needs into scalable technical solutions
+
+</details>
+
+<br/>
+
+<details>
+  <summary>
+    <b>🏢 Agaram InfoTech</b> &nbsp;—&nbsp; Senior Software Engineer &nbsp;|&nbsp;
+    <code>Aug 2022 → Jul 2025</code> &nbsp;|&nbsp; Coimbatore, India
+  </summary>
+
+<br/>
+
+> **Stack:**
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+> ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+> ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+> ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+- 🏗️ **Built & maintained** ERP and enterprise management systems for Pfizer, Fujitec, Hyundai Transys, Goodyear, and more
+- 🌐 **Developed** responsive React and Angular frontends; designed REST APIs using ASP.NET Core Web API
+- 🗄️ **Managed** SQL Server databases with complex reporting, stored procedures, and third-party integrations
+- 📋 **Gathered** client requirements and delivered end-to-end solutions across the full software development lifecycle
+- 🔄 **Participated** in Agile sprints, daily standups, and continuous delivery pipelines with cross-functional teams
+
+</details>
+
+<br/>
+
+<details>
+  <summary>
+    <b>🏢 Leiten Technologies</b> &nbsp;—&nbsp; IT & Information Security Intern &nbsp;|&nbsp;
+    <code>May 2022 → Jul 2022</code> &nbsp;|&nbsp; India
+  </summary>
+
+<br/>
+
+> **Stack:**
+> ![InfoSec](https://img.shields.io/badge/Information_Security-38BDAE?style=flat-square&logoColor=white)
+> ![QA](https://img.shields.io/badge/QA_Testing-BF91F3?style=flat-square&logo=checkmarx&logoColor=white)
+
+- 🔐 Assisted in software development tasks and information security assessment activities
+- 🧪 Supported application testing, deployment processes, and cross-team system improvement initiatives
+- 📚 Gained hands-on experience with enterprise development workflows and security best practices
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Client | Tech Stack | Key Highlights |
+|:--------|:-------|:-----------|:---------------|
+| 🏷️ **Asset Management System** | Pfizer | React · .NET Core · SQL Server | RFID, QR & Barcode asset lifecycle tracking; automated monitoring; reduced manual effort significantly |
+| 📋 **Vendor & Supplier Plan Mgmt** | LS Automotive India | React · FastAPI · PostgreSQL | Production planning for **3,000+ vendors**; streamlined scheduling & shipment coordination |
+| 📊 **Performance Management System** | Fujitec | Angular · ASP.NET Core · SQL Server | Automated employee appraisal workflows; notification engine; analytical dashboards for management |
+| 🛠️ **Complaint Management System** | Hyundai Transys | React Native · .NET Core · PostgreSQL | Cross-platform (desktop + mobile) complaint tracking; improved resolution efficiency & transparency |
+| ⚙️ **Technical Management System** | Seoyon E-HWA | React · .NET Core · SQL Server | Barcode-driven PO, SO, GRN & shipment management; enhanced end-to-end process visibility |
+| 💼 **Sales Management ERP** | SNJ Breweries · Goodyear | Angular · .NET Core · SQL Server | Integrated Sales, Inventory, Finance & HR; automated invoicing & customer transaction workflows |
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| | Achievement | Details |
+|:--:|:------------|:--------|
+| 💼 | **3+ Years Enterprise Experience** | Full stack development across ERP, CRM, Asset & Performance Management domains |
+| 🌍 | **Global Client Portfolio** | Delivered production systems for Pfizer, Fujitec, Hyundai Transys, Goodyear, and more |
+| 👥 | **Team Leadership** | Promoted to Team Lead at Aagnia Technologies — mentoring devs & defining architecture |
+| 🏭 | **Large-Scale System Design** | Built a vendor platform managing schedules for **3,000+ suppliers** in a single system |
+| 🤖 | **AI Integration Pioneer** | Leading chatbot development and LLM workflow automation at current company |
+| 📱 | **Cross-Platform Delivery** | Enterprise apps spanning web (React/Angular) and mobile (React Native) |
+| 🎓 | **Full Stack Certified** | Full Stack Python Development — Ether Info Tech (2022) |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Specialization |
+|:-------|:------------|:----:|:--------------|
+| 🎓 B.Sc. Computer Science | Bharathiar University | 2018 – 2021 | Computer Science |
+| 📜 Full Stack Python Development | Ether Info Tech | 2022 | Certification |
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```
+🤖  AI & LLM Integration   →  OpenAI API · LangChain · Prompt Engineering · Chatbot Workflows
+☁️  Cloud Platforms         →  Azure App Services · AWS EC2 · CI/CD Pipelines · Docker
+🏗️  System Design           →  Microservices · Event-Driven Architecture · Scalability Patterns
+📱  Mobile Development      →  React Native Advanced · Push Notifications · Offline-first Apps
+🔐  Security                →  API Security · OAuth2 / JWT · Secure Coding Practices
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-manikandan--dev.netlify.app-70A5FD?style=for-the-badge&logoColor=white)](https://manikandan-dev.netlify.app)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Manikandan12155-BF91F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikandan12155)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-manianuram2312%40gmail.com-38BDAE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manianuram2312@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   "Build systems that scale, write code that lasts."         ║
+║                                       — Manikandan           ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Thanks for visiting — let's build something great together!** 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
