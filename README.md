@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manikandan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%26%20Team%20Lead%20%7C%20Building%20Enterprise%20Solutions%20That%20Scale&descAlignY=60&descSize=15&descColor=8b949e" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manikandan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20and%20Team%20Lead%20%7C%20Building%20Enterprise%20Solutions%20That%20Scale&descAlignY=60&descSize=15&descColor=8b949e" width="100%"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Team+Lead+%F0%9F%9A%80;React+%7C+Angular+%7C+.NET+Core+%7C+FastAPI+%E2%9A%A1;ERP+%26+Enterprise+App+Specialist+%F0%9F%8F%97%EF%B8%8F;AI+Integration+%26+Workflow+Automation+%F0%9F%A4%96;3%2B+Years+%7C+10%2B+Projects+%7C+6%2B+Global+Clients+%F0%9F%8C%8D" alt="Typing SVG" />
