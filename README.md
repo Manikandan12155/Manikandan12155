@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manikandan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20and%20Team%20Lead%20%7C%20Building%20Enterprise%20Solutions%20That%20Scale&descAlignY=60&descSize=15&descColor=8b949e" width="100%"/>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Team+Lead+%F0%9F%9A%80;React+%7C+Angular+%7C+.NET+Core+%7C+FastAPI+%E2%9A%A1;ERP+%26+Enterprise+App+Specialist+%F0%9F%8F%97%EF%B8%8F;AI+Integration+%26+Workflow+Automation+%F0%9F%A4%96;3%2B+Years+%7C+10%2B+Projects+%7C+6%2B+Global+Clients+%F0%9F%8C%8D" alt="Typing SVG" />
@@ -40,12 +41,8 @@ public class Manikandan {
     String[] backend    = { ".NET Core", "FastAPI", "ASP.NET MVC", "C#" };
     String[] database   = { "SQL Server", "PostgreSQL", "Entity Framework" };
 
-    // ── Currently Learning ─────────────────────────
-    String[] learning   = {
-        "AI Integration & LLM Workflows",
-        "System Design & Microservices",
-        "Cloud Platforms (Azure / AWS)"
-    };
+    // ── AI Stack ────────────────────────────────────
+    String[] aiTools    = { "ChatGPT", "Claude", "Gemini", "Perplexity", "LangChain" };
 
     // ── Impact Numbers ─────────────────────────────
     int  yearsExperience  = 3;
@@ -116,6 +113,115 @@ public class Manikandan {
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=110&section=header&text=AI%20%26%20Modern%20Stack%20Mastery&fontSize=30&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+## 🤖 AI Tools & LLM Workflow Mastery
+
+> Actively driving AI adoption at Aagnia Technologies — from chatbot development to LLM-powered automation across enterprise workflows.
+
+**🧠 LLM Platforms (Daily Driver Comparison)**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**⚙️ AI Engineering & Integration**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-70A5FD?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-BF91F3?style=for-the-badge&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-38BDAE?style=for-the-badge&logo=pinecone&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**💬 Conversational AI**
+- ChatGPT — drafting, brainstorming
+- Claude — code review, long-context reasoning
+- Gemini — multimodal & Google Workspace tasks
+
+</td>
+<td width="33%" valign="top">
+
+**🔍 Research & Synthesis**
+- Perplexity — sourced web research
+- NotebookLM — document grounding & summarization
+- DeepSeek — cost-efficient reasoning tasks
+
+</td>
+<td width="33%" valign="top">
+
+**🏗️ Build & Automate**
+- LangChain — orchestration & agents
+- OpenAI/Claude APIs — chatbot backends
+- Prompt Engineering — production-grade prompt design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧊 3D GitHub Contribution Skyline
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manikandan12155/Manikandan12155/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Skyline"/>
+</div>
+
+<details>
+<summary><b>⚙️ How this 3D graph is generated (one-time setup — click to expand)</b></summary>
+
+<br/>
+
+This isometric 3D bar chart is real — not a static image — generated daily by the **`yoshi389111/github-profile-3d-contrib`** GitHub Action, rendering your actual contribution history as 3D bars.
+
+**Setup (5 minutes):**
+
+1. In your profile repo (`Manikandan12155/Manikandan12155`), create `.github/workflows/profile-3d-contrib.yml`:
+
+```yaml
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit generated SVGs
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          git commit -m "Update 3D contribution graph" || exit 0
+          git push
+```
+
+2. Push it, then manually trigger it once via the **Actions** tab (`Run workflow`).
+3. It will generate several SVG themes under `profile-3d-contrib/` — pick your favorite (`profile-night-rainbow.svg`, `profile-night-green.svg`, etc.) and reference it as shown above.
+4. The graph then auto-refreshes every night — genuinely live, genuinely 3D.
+
+</details>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -141,14 +247,6 @@ public class Manikandan {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikandan12155&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manikandan12155&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -283,6 +381,18 @@ public class Manikandan {
 📱  Mobile Development      →  React Native Advanced · Push Notifications · Offline-first Apps
 🔐  Security                →  API Security · OAuth2 / JWT · Secure Coding Practices
 ```
+
+---
+
+## 🌐 More of My Work
+
+<div align="center">
+
+[![Portfolio Website](https://img.shields.io/badge/🌐_Visit_Full_Portfolio-manikandan--dev.netlify.app-70A5FD?style=for-the-badge&logoColor=white)](https://manikandan-dev.netlify.app)
+
+*Explore my complete career timeline, project showcases, AI tool workflows, and live chatbot demo on my portfolio site.*
+
+</div>
 
 ---
 
