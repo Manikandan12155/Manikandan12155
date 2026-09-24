@@ -86,6 +86,19 @@ My core engineering foundation is built on [C#](https://learn.microsoft.com/en-u
 
 <br/>
 
+<div align="left">
+  <h2 style="margin-bottom: 0;">🧠 Future Protocol: Currently Exploring</h2>
+  <h3 style="margin-top: 5px; font-weight: normal;"><i>"I am analyzing the next generation of intelligent software."</i></h3>
+</div>
+
+<p align="left" style="font-size: 16px; line-height: 1.6;">
+  <img src="img5.png" width="140" align="left" hspace="20" alt="Holographic AI Brain" />
+  <strong>System Input: AI/ML ➔ LLMs ➔ RAG ➔ Agentic AI ➔ Emerging Tech</strong><br/><br/>
+  "My primary objective is architecting systems at the absolute edge of generative intelligence. The future isn't just about writing code; it's about engineering autonomous agents that think, learn, and execute complex workflows seamlessly. I am currently decoding the architecture of tomorrow's software. <img src="img4.png" width="140" align="right" hspace="20" alt="Secondary Holographic AI" />You can observe my latest neural network experiments and AI integrations running live at my dedicated intelligence hub."<br/><br/>
+  <a href="https://consistency-ai.netlify.app/"><b>✨ Access Consistency AI Lab ↗</b></a>
+</p>
+<br clear="both"/>
+
 ---
 
 <br/>
@@ -195,9 +208,3 @@ My core engineering foundation is built on [C#](https://learn.microsoft.com/en-u
   <br/><br/><br/>
 
 </div>
-
-<br/>
-
-<br/>
-
----
