@@ -17,20 +17,27 @@
 </div>
 
 
-<p align="center" style="font-size: 16px; line-height: 1.6;">
-  I’m a <b>Full Stack Developer and Team Lead</b> who turns complex business problems into scalable, high-performance software systems.
+<p align="left" style="font-size: 16px; line-height: 1.6;">
+  <img src="intro1.png" width="120" align="left" hspace="20" alt="Full Stack Developer" />
+  I’m a <b>Full Stack Developer and Team Lead</b> who turns complex business problems into scalable, high-performance software systems. I specialize in bridging the gap between visionary product ideas and robust technical execution.
 </p>
+<br clear="both"/>
 
-<p align="center" style="font-size: 16px; line-height: 1.6;">
-  I work across the complete engineering lifecycle — <b>architecture, backend systems, databases, APIs, frontend experiences, integrations, testing, performance, and deployment</b> — with a strong focus on building solutions that are reliable, maintainable, and built to scale.
+<p align="right" style="font-size: 16px; line-height: 1.6;">
+  <img src="intro2.png" width="120" align="right" hspace="20" alt="Engineering Lifecycle" />
+  I work across the complete engineering lifecycle — <b>architecture, backend systems, databases, APIs, frontend experiences, integrations, testing, performance, and deployment</b> — with a strong focus on building solutions that are reliable, maintainable, and built to scale for modern enterprise demands.
 </p>
+<br clear="both"/>
 
-<p align="center" style="font-size: 16px; line-height: 1.6;">
+<p align="left" style="font-size: 16px; line-height: 1.6;">
+  <img src="intro3.png" width="120" align="left" hspace="20" alt="AI & Architecture" />
   At <b>Aagnia Technologies</b>, I contribute to technical direction, lead development initiatives, solve complex engineering challenges, and mentor developers to deliver production-ready solutions. Beyond traditional application development, I’m actively working with <b>AI, LLMs, RAG, Agentic AI, automation, and intelligent application architectures</b> to explore how modern AI can be integrated into real-world software products.
 </p>
+<br clear="both"/>
 
-<p align="center" style="font-size: 16px; line-height: 1.6;">
-  I believe great engineering is not about writing more code — it’s about <b>understanding the problem, designing the right solution, and building technology that creates measurable impact.</b>
+<p align="right" style="font-size: 16px; line-height: 1.6;">
+  <img src="intro4.png" width="120" align="right" hspace="20" alt="Problem Solving" />
+  I believe great engineering is not about writing more code — it’s about <b>understanding the problem, designing the right solution, and building technology that creates measurable impact.</b> Every line of code should serve a clear business purpose and drive innovation forward.
 </p>
 
 <br/>
