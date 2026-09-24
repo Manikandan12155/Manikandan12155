@@ -176,31 +176,24 @@ My core engineering foundation is built on [C#](https://learn.microsoft.com/en-u
 <br/>
 
 <div align="center">
-  <p align="center">
-    <img src="img1.png" height="195" align="left" alt="Avatar 1" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manikandan12155&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-  </p>
+  <img src="img1.png" height="195" alt="Avatar 1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manikandan12155&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
 
-  <br clear="both"/>
-  <br/>
+  <br/><br/><br/>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan12155&theme=tokyonight" height="195" alt="GitHub Streak" />
-    <img src="img2.png" height="195" align="right" alt="Avatar 2" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan12155&theme=tokyonight" height="195" alt="GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="img2.png" height="195" alt="Avatar 2" />
 
-  <br clear="both"/>
-  <br/>
+  <br/><br/><br/>
 
-  <p align="center">
-    <img src="img3.png" height="195" align="left" alt="Avatar 3" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manikandan12155&theme=tokyonight&layout=compact" height="195" alt="Top Languages" />
-  </p>
+  <img src="img3.png" height="195" alt="Avatar 3" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manikandan12155&theme=tokyonight&layout=compact" height="195" alt="Top Languages" />
   
-  <br clear="both"/>
-  <br/>
+  <br/><br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikandan12155&theme=tokyo-night" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
