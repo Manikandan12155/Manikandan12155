@@ -87,3 +87,74 @@ My core engineering foundation is built on [C#](https://learn.microsoft.com/en-u
 <br/>
 
 ---
+
+<br/>
+
+<div align="left">
+  <h2 style="margin-bottom: 0;">🔥 Top Projects & Missions</h2>
+  <h3 style="margin-top: 5px; font-weight: normal;"><i>Showcasing architected solutions, intelligent systems, and scalable products.</i></h3>
+</div>
+
+<br/>
+
+### 🌐 01 / AI-World
+> **AI Technology Intelligence Platform**
+> A comprehensive platform to collect, organize, and surface the latest developments across AI, GenAI, Cloud, and emerging technologies.
+> <br/>
+> <img src="https://skillicons.dev/icons?i=react,ts,vite,python,fastapi" height="28" />
+> <br/><br/>
+> [**Explore Live Demo ↗**](https://ai-world-blue.vercel.app) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+
+<br/>
+
+### 📚 02 / Everest
+> **Learning & CRM Ecosystem**
+> A large-scale education platform with student management, exams, subscriptions, tutoring, dashboards, and AI-powered learning experiences.
+> <br/>
+> <img src="https://skillicons.dev/icons?i=react,ts,dotnet,postgres,redux" height="28" />
+> <br/><br/>
+> [**View Project ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+
+<br/>
+
+### 🤖 03 / AI Agent
+> **Autonomous Workflow Automation**
+> An intelligent automation system that transforms complex business processes into AI-assisted autonomous workflows with decision making.
+> <br/>
+> <img src="https://skillicons.dev/icons?i=python,fastapi,docker" height="28" />
+> <br/><br/>
+> [**View Architecture ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+
+<br/>
+
+### 🎙️ 04 / Elliot
+> **AI Learning Assistant**
+> A conversational AI assistant designed to provide contextual support in educational platforms with knowledge retrieval and voice capabilities.
+> <br/>
+> <img src="https://skillicons.dev/icons?i=react,ts,python" height="28" />
+> <br/><br/>
+> [**View Project ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+
+<br/>
+
+### 📊 05 / Data Pipelines
+> **Data + RAG Pipelines**
+> Robust data ingestion and processing pipelines for large-scale structured and unstructured data to power Retrieval-Augmented Generation systems.
+> <br/>
+> <img src="https://skillicons.dev/icons?i=python,postgres,fastapi,ts,redux" height="28" />
+> <br/><br/>
+> [**View Project ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+
+<br/>
+
+### 🏢 06 / Architecture Redesign
+> **Enterprise Microservices**
+> Spearheaded the migration of legacy monolithic systems into scalable, high-performance microservices for enterprise clients at Aagnia Technologies.
+> <br/>
+> <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,docker" height="28" />
+> <br/><br/>
+> [**View Case Study ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+
+<br/>
+
+---
