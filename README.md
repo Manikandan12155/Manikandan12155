@@ -98,62 +98,112 @@ My core engineering foundation is built on [C#](https://learn.microsoft.com/en-u
 <br/>
 
 ### 🌐 01 / AI-World
+> <img src="https://placehold.co/800x400/1e293b/38bdf8?text=AI-World+Project+Screenshot" width="100%" alt="AI-World Preview" />
+> <br/><br/>
 > **AI Technology Intelligence Platform**
 > A comprehensive platform to collect, organize, and surface the latest developments across AI, GenAI, Cloud, and emerging technologies.
 > <br/>
 > <img src="https://skillicons.dev/icons?i=react,ts,vite,python,fastapi" height="28" />
 > <br/><br/>
-> [**Explore Live Demo ↗**](https://ai-world-blue.vercel.app) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+> <a href="https://ai-world-blue.vercel.app"><b>Explore Live Demo ↗</b></a> &nbsp; | &nbsp; <a href="#"><b>GitHub Repository ↗</b></a>
 
 <br/>
 
 ### 📚 02 / Everest
+> <img src="https://placehold.co/800x400/1e293b/38bdf8?text=Everest+Project+Screenshot" width="100%" alt="Everest Preview" />
+> <br/><br/>
 > **Learning & CRM Ecosystem**
 > A large-scale education platform with student management, exams, subscriptions, tutoring, dashboards, and AI-powered learning experiences.
 > <br/>
 > <img src="https://skillicons.dev/icons?i=react,ts,dotnet,postgres,redux" height="28" />
 > <br/><br/>
-> [**View Project ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+> <a href="#"><b>View Project ↗</b></a> &nbsp; | &nbsp; <a href="#"><b>GitHub Repository ↗</b></a>
 
 <br/>
 
 ### 🤖 03 / AI Agent
+> <img src="https://placehold.co/800x400/1e293b/38bdf8?text=AI+Agent+Project+Screenshot" width="100%" alt="AI Agent Preview" />
+> <br/><br/>
 > **Autonomous Workflow Automation**
 > An intelligent automation system that transforms complex business processes into AI-assisted autonomous workflows with decision making.
 > <br/>
 > <img src="https://skillicons.dev/icons?i=python,fastapi,docker" height="28" />
 > <br/><br/>
-> [**View Architecture ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+> <a href="#"><b>View Architecture ↗</b></a> &nbsp; | &nbsp; <a href="#"><b>GitHub Repository ↗</b></a>
 
 <br/>
 
 ### 🎙️ 04 / Elliot
+> <img src="https://placehold.co/800x400/1e293b/38bdf8?text=Elliot+Project+Screenshot" width="100%" alt="Elliot Preview" />
+> <br/><br/>
 > **AI Learning Assistant**
 > A conversational AI assistant designed to provide contextual support in educational platforms with knowledge retrieval and voice capabilities.
 > <br/>
 > <img src="https://skillicons.dev/icons?i=react,ts,python" height="28" />
 > <br/><br/>
-> [**View Project ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+> <a href="#"><b>View Project ↗</b></a> &nbsp; | &nbsp; <a href="#"><b>GitHub Repository ↗</b></a>
 
 <br/>
 
 ### 📊 05 / Data Pipelines
+> <img src="https://placehold.co/800x400/1e293b/38bdf8?text=Data+Pipelines+Project+Screenshot" width="100%" alt="Data Pipelines Preview" />
+> <br/><br/>
 > **Data + RAG Pipelines**
 > Robust data ingestion and processing pipelines for large-scale structured and unstructured data to power Retrieval-Augmented Generation systems.
 > <br/>
 > <img src="https://skillicons.dev/icons?i=python,postgres,fastapi,ts,redux" height="28" />
 > <br/><br/>
-> [**View Project ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+> <a href="#"><b>View Project ↗</b></a> &nbsp; | &nbsp; <a href="#"><b>GitHub Repository ↗</b></a>
 
 <br/>
 
 ### 🏢 06 / Architecture Redesign
+> <img src="https://placehold.co/800x400/1e293b/38bdf8?text=Architecture+Project+Screenshot" width="100%" alt="Architecture Preview" />
+> <br/><br/>
 > **Enterprise Microservices**
 > Spearheaded the migration of legacy monolithic systems into scalable, high-performance microservices for enterprise clients at Aagnia Technologies.
 > <br/>
 > <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,docker" height="28" />
 > <br/><br/>
-> [**View Case Study ↗**](#) &nbsp; \| &nbsp; [**GitHub Repository ↗**](#)
+> <a href="#"><b>View Case Study ↗</b></a> &nbsp; | &nbsp; <a href="#"><b>GitHub Repository ↗</b></a>
+
+<br/>
+
+---
+
+<br/>
+
+<br/>
+
+<div align="center">
+  <p align="center">
+    <img src="img1.png" height="195" align="left" alt="Avatar 1" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manikandan12155&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  </p>
+
+  <br clear="both"/>
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan12155&theme=tokyonight" height="195" alt="GitHub Streak" />
+    <img src="img2.png" height="195" align="right" alt="Avatar 2" />
+  </p>
+
+  <br clear="both"/>
+  <br/>
+
+  <p align="center">
+    <img src="img3.png" height="195" align="left" alt="Avatar 3" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manikandan12155&theme=tokyonight&layout=compact" height="195" alt="Top Languages" />
+  </p>
+  
+  <br clear="both"/>
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikandan12155&theme=tokyo-night" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
 
 <br/>
 
